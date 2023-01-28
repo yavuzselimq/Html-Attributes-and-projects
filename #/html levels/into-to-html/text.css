@@ -1,0 +1,55 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.istatistik{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+}
+
+.başlık{
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5;
+
+    
+}
+.yapımcı{
+    font-size: 14px;
+    color: rgb(96,96,96);
+    margin-bottom: 20px;
+
+}
+
+.açıklama{
+    font-size: 14px;
+    color: rgb(96,96,96);
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 100px;
+}
+
+.shop{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227,65,54);
+    color: white;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    
+    
+}
+.span{
+  cursor: pointer;
+  
+}
+.span:hover{
+    text-decoration: underline;
+}
